@@ -1,0 +1,7 @@
+title: Some Notes
+description: Just posts
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+permalink: /:year/:month/:day/:title/
