@@ -1,7 +1,6 @@
 title: Some Notes
 description: Just Notes
-theme: jekyll-theme-midnight
-show_downloads: false
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 
