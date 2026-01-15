@@ -1,6 +1,6 @@
 title: Some Notes
-description: Just Notes
-remote_theme: jekyll/minima@master
+description: lowhero blog
+theme: minima
 minima:
   skin: dark
 markdown: kramdown
