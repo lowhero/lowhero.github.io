@@ -1,9 +1,7 @@
 title: Some Notes
 description: Just Notes
-theme: minima
+remote_theme: jekyll/minima@master
 minima:
   skin: dark
-
 markdown: kramdown
-
 permalink: /:year/:month/:day/:title/
