@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Some Notes
+title: just my blog
 ---
 
 # Posts
