@@ -1,7 +1,7 @@
 title: lowhero blog
-description: lowhero blog
+description: just my blog
 theme: minima
 minima:
-  skin: dark
+  skin: auto
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
